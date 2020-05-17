@@ -1,2 +1,0 @@
-python-telegram-bot == 12.7
-pyodbc == 4.0.30
